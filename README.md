@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @oliviamr
 - 👀 I’m interested in Genomes 🧬
-- 🌱 I’m currently learning PyTorch and DL modeling 
-- 💞️ I’m looking to collaborate on cool projects of Climate Change
 - 📫 How to reach me oliviamendivilramos@gmail.com 
 
 <!---
