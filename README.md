@@ -1,4 +1,4 @@
-👋 Hi, I’m @oliviamr --> 👩‍🔬 Dr. Olivia Mendivil Ramos | Computational Biologist & AI-driven Bioinformatics Scientist
+👋 Hi, I’m 👩‍🔬 Dr. **Olivia Mendivil Ramos** | Computational Biologist & AI-driven Bioinformatics Scientist
 🔬 Senior Scientist | AI & Machine Learning for Bioinformatics | Data Science | Genomics | Multi-Omics
 
 🚀 **About Me:**
